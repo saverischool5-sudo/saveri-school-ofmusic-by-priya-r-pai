@@ -1,0 +1,21 @@
+{
+  "name": "Saveri Music Academy",
+  "short_name": "Saveri",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#0a0a0c",
+  "theme_color": "#0a0a0c",
+  "description": "Premium Music Classes in Trivandrum for Carnatic, Guitar, and Violin.",
+  "icons": [
+    {
+      "src": "assets/hero_music_academy_1780027198110.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/hero_music_academy_1780027198110.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /assets/
+
+# Disallow legal/policy pages from being indexed by bots
+Disallow: /privacy.html
+Disallow: /terms.html
+
+Sitemap: https://www.saverischoolofmusic.com/sitemap.xml
